@@ -12,7 +12,7 @@
 
 		<div class="p-4 md:p-12 text-center lg:text-left">
 			<!-- Image for mobile view-->
-			<div class="block lg:hidden rounded-full shadow-xl mx-auto md:-mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url('https://raw.githubusercontent.com/Rasaf-Ibrahim/--Portfolio-Website--/master/assets/images/index.jpeg?token=AQUTL52NROAAQWZ2QRZQPOTBDEEXA')"></div>
+			<div class="block lg:hidden rounded-full shadow-xl mx-auto md:-mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url('https://raw.githubusercontent.com/Rasaf-Ibrahim/--Portfolio-Website--/master/assets/images/index.jpeg?token=AQUTL57JO2Q5DU3Z7JODB7DBDEFWS')"></div>
 			
 			<h1 class="text-3xl font-bold pt-8 lg:pt-0">Aditto Nahian</h1>
 			<div class="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-green-500 opacity-25"></div>
@@ -42,7 +42,7 @@
 	<!--Img Col-->
 	<div class="w-full lg:w-2/5">
 		<!-- Big profile image for side bar (desktop) -->
-		<img src="https://raw.githubusercontent.com/Rasaf-Ibrahim/--Portfolio-Website--/master/assets/images/index.jpeg?token=AQUTL52NROAAQWZ2QRZQPOTBDEEXA" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block">
+		<img src="https://raw.githubusercontent.com/Rasaf-Ibrahim/--Portfolio-Website--/master/assets/images/index.jpeg?token=AQUTL57JO2Q5DU3Z7JODB7DBDEFWS" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block">
 		<!-- Image from: http://unsplash.com/photos/MP0IUfwrn0A -->
 		
 	</div>
