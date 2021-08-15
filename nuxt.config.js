@@ -16,7 +16,18 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+    ],
+
+    script: [
+      {
+        src: 'https://unpkg.com/popper.js@1/dist/umd/popper.min.js',
+      },
+      {
+        src: 'https://unpkg.com/tippy.js@4',
+      },
+
+    ],
+    
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
