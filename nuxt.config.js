@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-tailwind-scss',
+    title: 'Aditto Nahian',
     htmlAttrs: {
       lang: 'en'
     },
