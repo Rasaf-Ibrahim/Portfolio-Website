@@ -1,0 +1,14 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "ThemeSwitcher": {
+    "description": "Auto imported from components/ThemeSwitcher.vue"
+  },
+  "HireMe": {
+    "description": "Auto imported from components/hireMe.vue"
+  },
+  "ProfileCard": {
+    "description": "Auto imported from components/profileCard.vue"
+  }
+}
