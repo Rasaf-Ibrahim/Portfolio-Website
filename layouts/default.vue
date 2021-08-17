@@ -82,16 +82,11 @@
 import ThemeSwitcher from '../components/ThemeSwitcher.vue'
 import Footer from '../components/Footer.vue'
 
-// // AOS
-// import aosMixin from '~/mixins/aos'
 
   export default {
   components: {ThemeSwitcher, Footer },
 
-// // AOS
-//   name: 'PageIndex',
-//   mixins: [aosMixin],
- 
+
 
  data() {
     return {
