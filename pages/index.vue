@@ -2,14 +2,14 @@
   <div >
 
 
-<div  class="-fadeInUp mb-3rem md:mb-2rem lg-5rem " >
+<div  class="-fade-in-up mb-[3rem] md:mb-[2rem] lg-[5rem] " >
 
    <profileCard/>
 
 </div>
 
   
-  <div  class="-fadeInRight mb-3rem md:mb-2rem lg-5rem">
+  <div  class="-fade-in-right mb-[3rem] md:mb-[2rem] lg-[5rem]">
 
        <hireMe/>
 

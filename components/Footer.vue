@@ -1,5 +1,5 @@
 <template>
-  <div  class="relative h-auto p-1rem bg-s-t1a4 shadow-lg -p text-center space-y-2rem">
+  <div  class="relative h-auto p-[1rem] bg-s-t1a4 shadow-lg -p text-center space-y-[2rem]">
 
    
 

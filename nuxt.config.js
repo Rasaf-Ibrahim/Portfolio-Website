@@ -11,7 +11,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'Aditto Nahian', name: 'Aditto Nahian', content: 'Hi, my name is Aditto Nahian. I am a singer. I live in Joypurhat, Bangladesh.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
 
