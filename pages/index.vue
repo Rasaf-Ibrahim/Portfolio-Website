@@ -31,6 +31,18 @@ import hireMe from '../components/hireMe.vue'
    components: {profileCard, hireMe },
 
 
+    head: {
+    title: 'Aditto Nahian',
+    meta: [
+      {
+        hid: 'Aditto Nahian',
+        name: 'Aditto Nahian',
+        content: 'Hi, my name is Aditto Nahian. I am a singer. I live in Joypurhat, Bangladesh.'
+      }
+    ],
+  }
+
+
 
 }
 

@@ -85,6 +85,18 @@ import Footer from '../components/Footer.vue'
 
   export default {
   components: {ThemeSwitcher, Footer },
+  
+
+ head: {
+    title: 'Aditto Nahian',
+    meta: [
+      {
+        hid: 'Aditto Nahian',
+        name: 'Aditto Nahian',
+        content: 'Hi, my name is Aditto Nahian. I am a singer. I live in Joypurhat, Bangladesh.'
+      }
+    ],
+  },
 
 
 
